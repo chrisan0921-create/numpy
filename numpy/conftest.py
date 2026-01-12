@@ -1,4 +1,4 @@
-"""
+hello this is a test"""
 Pytest configuration and fixtures for the Numpy test suite.
 """
 import os
